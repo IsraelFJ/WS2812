@@ -7,7 +7,10 @@
  * 
  * A seleÃ§Ã£o de LEDs acesos Ã© feita por meio de um buffer de LEDs, onde
  * cada posiÃ§Ã£o do buffer representa um LED da matriz 5x5.
- * 
+ *
+ * Minha versão do codigo em:
+ * https://github.com/IsraelFJ/WS2812.git 
+ *
  * Original em:
  * https://github.com/raspberrypi/pico-examples/tree/master/pio/ws2812
  */
